@@ -6,7 +6,7 @@ heroBackground: services/service2.jpg
 heroHeading: Mergers & Acquisitions
 heroSubHeading: Thinking of acquiring another business? Let us guide you through the
   process.
-icon: services/service-icon-4.png
+icon: images/s1.png
 title: Mergers
 ---
 

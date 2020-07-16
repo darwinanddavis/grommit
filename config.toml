@@ -7,11 +7,11 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "We're a design and digital product studio focusing on user experience. We make useful and edgy products, like mobile apps, using computers, mood boards, and prototyping."
+    meta_description = " "
     meta_og_title = "Grommit Studios"
     meta_og_type = "website"
     meta_og_url = "https://grommitstudios.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_image = "images/header.png"
     meta_og_description = "We're a design and digital product studio focusing on user experience. We make useful and edgy products, like mobile apps, using computers, mood boards, and prototyping."
     meta_twitter_card = "summary"
     meta_twitter_site = "@grommitstudios"
