@@ -1,0 +1,8 @@
+*.Rproj
+_run_site.r # this file contains all the initial site setup code
+.Rproj.user
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
