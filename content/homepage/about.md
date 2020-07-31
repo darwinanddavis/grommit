@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'Check us out'
 weight: 2
-background: ''
+background: images/
 button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Reach out for product info, collabs, or to chat  
