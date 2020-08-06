@@ -1,7 +1,7 @@
 ---
 title: 'Check us out'
 weight: 2
-background: images/
+background: 
 button: 'About Us'
 buttonLink: 'about'
 ---

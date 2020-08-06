@@ -1,6 +1,6 @@
 ---
 date: "2018-12-06T09:29:16+10:00"
-heroBackground: images/header.jpg
+heroBackground: images/logo.jpeg
 heroHeading: About Us
 heroSubHeading: Est. 2020   
 layout: aboutlayout
