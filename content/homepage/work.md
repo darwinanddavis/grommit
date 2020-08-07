@@ -1,9 +1,9 @@
 ---
-title: 'Leftovers'
+title: 'Leftover'
 weight: 1
-background: 'images/header2.png'
+background: 'images/mock3.jpg'
 button: 'See the app'
 buttonLink: 'work/leftover'
 ---
 
-Introducing **Leftovers**.    
+Introducing **Leftover**.    

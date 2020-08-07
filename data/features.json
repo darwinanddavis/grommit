@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "features/noun_branding_1885335.svg"
+    "title": "Digital products",
+    "description": "Designing things is pretty fun",
+    "image": "skills/s1.png"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "features/noun_The Process_1885341.svg"
+    "title": "Programming",
+    "description": "Using next-gen tools so things just run smoother",
+    "image": "skills/s2.png"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "features/noun_3d modeling_1885342.svg"
+    "title": "UX",
+    "description": "We're data-driven in our UX. It's better that way",
+    "image": "skills/s3.png"
   }
 ]

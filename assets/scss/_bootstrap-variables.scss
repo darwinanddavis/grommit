@@ -19,6 +19,7 @@ $white: #ffffff;
 $black: #000000;
 $primary: #D39B4C;
 $secondary: #F67558;
+$tertiary: #7A7A7A; 
 
 // Links
 $link-color: $primary;
@@ -27,8 +28,8 @@ $link-hover-color: lighten($primary, 20%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: 'Arial Narrow', sans-serif, -apple-system;
-$font-family-heading: 'Arial Narrow', sans-serif, -apple-system;
+$font-family-base: 'Avenir Light', sans-serif, -apple-system;
+$font-family-heading: 'Avenir Light', sans-serif, -apple-system;
 $font-size-base: 1rem; // Assumes the browser default, typically `16px`
 $font-weight-thin: 200;
 $font-weight-light: 300;
