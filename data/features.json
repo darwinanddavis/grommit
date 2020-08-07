@@ -1,11 +1,11 @@
 [
   {
-    "title": "Digital products",
-    "description": "Designing things is pretty fun",
+    "title": "Design",
+    "description": "Designing things is pretty fun and we're pretty good at it",
     "image": "skills/s1.png"
   },
   {
-    "title": "Programming",
+    "title": "Digital products",
     "description": "Using next-gen tools so things just run smoother",
     "image": "skills/s2.png"
   },

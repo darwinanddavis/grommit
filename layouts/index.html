@@ -58,7 +58,7 @@
 {{ end }}
 
 <!-- skill section -->
-{{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
+<!-- {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
 <div class="container pt-8 pb-8 pb-md-14 pt-md-14">
   <div class="row justify-content-start">
@@ -75,7 +75,7 @@
     </div>
   </div>
 </div>
-{{end}}
+{{end}} -->
 
 <!-- check us out section -->
 {{ range first 1 (after 1 $reusablePages) }}
