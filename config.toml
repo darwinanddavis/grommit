@@ -18,11 +18,6 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@grommitstudios"
 
 [[menu.main]]
-	name = "What we do"
-	url = "/services/"
-    weight = 1
-
-[[menu.main]]
     name = "Projects"
     url = "/work/"
     weight = 2
