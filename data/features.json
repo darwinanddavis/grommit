@@ -1,17 +1,23 @@
 [
   {
-    "title": "Design",
-    "description": "Designing things is pretty fun and we're pretty good at it",
+    "title": "Product design",
+    "description": "Designing things is pretty fun and we're pretty good at it.",
     "image": "skills/s1.png"
   },
   {
-    "title": "Digital products",
-    "description": "Using next-gen tools so things just run smoother",
+    "title": "App development",
+    "description": "We design next-gen apps that make daily life more fun.",
     "image": "skills/s2.png"
   },
   {
     "title": "UX",
-    "description": "We're data-driven in our UX. It's better that way",
+    "description": "We're data-driven in our UX. It's better that way.",
     "image": "skills/s3.png"
+  },
+  {
+    "title": "Web development",
+    "description": "We whittle at web frameworks to build slim and fast designs.",
+    "image": "skills/s4.png"
   }
+
 ]

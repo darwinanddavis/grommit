@@ -10,8 +10,8 @@
   text-align: center;
   .feature-image {
     flex: 0 0 auto;
-    width: 80px;
-    height: 80px;
+    width: 100%;
+    height: auto;
     display: flex;
     margin-bottom: 20px;
     text-align: center;
@@ -21,14 +21,14 @@
     height: auto;
   }
   .feature-title {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     line-height: 1.2;
     text-transform: uppercase;
   }
   .feature-content {
     margin-bottom: 0;
     margin-top: auto;
-    color: $tertiary;
+    color: #F1F1F1;
     p {
       margin: 0;
       strong {
