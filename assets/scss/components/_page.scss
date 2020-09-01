@@ -2,8 +2,14 @@
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  .wrapper {
+}
+
+.wrapper {
+    flex: 1;
+    background-color: #FFFBF0;
+}
+
+.wrapper-home {
     flex: 1;
     background-color: $secondary;
   }
-}

@@ -25,10 +25,14 @@
 {{ range first 1 $reusablePages }}
 
 <!-- skillset section -->
-<div id="home" class="container pt-8 pb-8 pt-md-10 pb-md-10" style="color:white;">
+<div id="home" class="wrapper-home col-12 pt-8 pb-8 pt-md-10 pb-md-10">
   <div class="col-12">
-      <h1 class="text-center mb-3">Look what we can do</h1>
-      <p class="text-center">We're part designer, part programmer, part developer. We bunker down indoors on rainy days thinking about new products for people to use in daily life. Web and mobile apps, street wear, prints. It's a sandbox out there and we're kids. </p>
+      <h1 class="text-center mb-3" style="color:#000000;">
+        Look what we can do
+      </h1>
+      <p class="text-center" style="padding:25px; color:white;">
+        We're part designer, part programmer, part developer. We bunker down indoors on rainy days thinking about new products for people to use in daily life. Web and mobile apps, street wear, prints. It's a sandbox out there and we're kids. 
+      </p>
     </div>
   <div class="row justify-content-center">
     {{ range .Site.Data.features }}
@@ -79,7 +83,8 @@
 
 <!-- check us out section -->
 {{ range first 1 (after 1 $reusablePages) }}
-<div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+<!-- <div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'> -->
+<div id="home" class="strip wrapper-home" style='background-image: url("{{ .Params.background | relURL }}");'>
   <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
     <div class="row justify-content-center">
       <div class="col-12 col-md-8 text-center text-white">

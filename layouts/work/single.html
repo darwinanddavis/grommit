@@ -13,7 +13,8 @@
     </div>
     {{ if .Params.images }}
     <div class="col-12 pt-4 pt-md-10">
-      <h1>See the app in action<!-- {{.Title}} --></h1> <!-- gallery heading -->
+      <h1>
+        {{.Title}}</h1> <!-- gallery heading -->
       <div class="masonry"> <!-- controls img layout -->
         {{ range .Params.images }}
           <div class="work-image item">
