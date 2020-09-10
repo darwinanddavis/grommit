@@ -1,13 +1,13 @@
 .hero-image {
   /*background-size: cover;*/
-  background-size: 100% 100%;
+  background-size: 50% 100%;
   background-repeat: no-repeat;
-  background-position: top center;
-  background-blend-mode: overlay;
-  background-color: none;
+  background-position: center;
+  background-blend-mode: cover;
+  background-color: #FFFFFF;
   height: 400px;
   position: relative;
-  padding-top: 60px;
+  padding: 60px;
   .container {
     height: 100%;
     display: flex;

@@ -12,12 +12,16 @@ title: DARK
 weight: 1
 ---
 
-A website trivia for the Netflix series [Dark.](https://www.netflix.com/title/80100172)  
+A website trivia for the [Netflix series Dark](https://www.netflix.com/title/80100172). 
 
-The trivia is based on 45 questions spanning all three seasons. 
+A trivia quiz spanning all three seasons. The idea first started as a piece of paper job to test one of our brothers and his friends. Since they were taking it remotely online, we decided to make it into a website.  
 
-## WARNING  
+### WARNING: Spoiler alert
 
-### Spoiler alert       
+If you haven't see the series, we highly recommend it.  
 
-If you haven't see the series, we highly recommend it. Otherwise, take the [DARK trivia.](https://darwinanddavis.github.io/misc/dark)  
+## Take the [DARK trivia](https://darwinanddavis.github.io/misc/dark).  
+
+
+
+
